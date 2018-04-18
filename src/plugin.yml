@@ -1,0 +1,6 @@
+name: GeoInfo
+main: fr.rremis.geo.GeoInfo
+version: 0.1
+author: Rremis
+commands:
+  geo:
